@@ -1,0 +1,81 @@
+body	{
+	margin: 0px;
+	padding: 0px;
+	background-image: url(images/fondo11.jpg);
+	background-repeat: round;
+	font-family: "Lucida Console", Monaco, monospace;
+	font-size: 15px;
+	color: gray;
+}
+
+.logo {
+	  width: 1100px;
+	  height: 200px;
+}
+
+.navbar a.color-nav {
+	color: white;
+	padding-top: 35px;
+}
+
+.index-noticias {
+	display: table-cell;
+	box-sizing: border-box;
+	width: 29%;
+	padding: 20px;
+	margin: 20px;
+}
+
+.noti-p {
+	padding-top: 20px;
+}
+
+.info-footer {
+	background-color: #c1f101;	
+	padding: 20px 60px;
+	color: white;
+}
+.form-control {
+	width: 400px;
+}
+
+.form-inline .form-group{
+	margin: 10px 0px;
+}
+
+#exampleInputName2 {
+	width: 400px;
+}
+
+#exampleInputEmail2 {
+	width: 400px;
+}
+
+.boton-margin {
+	margin: 10px 0px;
+}
+
+.noti-img {
+	width: 170px;
+}
+
+.nosotros-img {
+	width: 500px;
+	padding: 30px;
+}
+
+.boton-leer {
+	text-align: center;
+}
+
+.boton-leer2 {
+	background-color: #5ee2f7;
+}
+
+.noticias-margin {
+	margin-bottom: 60px;
+}
+
+ .noti-padding {
+ 	padding: 50px;
+ }
